@@ -1,0 +1,27 @@
+# Raw large claims data files (too large for GitHub; see DATA_AVAILABILITY.md)
+PUBLICUSE_CLAIM_*.txt
+PUBLICUSE_CLAIM_*.zip
+PUBLICUSE_PROVIDER_DETAIL.zip
+PUBLICUSE_REF_TABLES.zip
+df.csv
+icd_code_pairs_longitudinal.csv
+icd_code_pairs_longitudinal_2020_2024.csv
+
+# Proprietary Utah APCD data
+*.apcd
+Utah_files/
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+*.egg-info/
+
+# OS
+.DS_Store
+Thumbs.db
