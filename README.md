@@ -92,7 +92,7 @@ All data are de-identified public-use files provided under the MedInsight Public
 
 The Utah all-payer claims data were obtained under a formal data use agreement with the **Utah All-Payer Claims Database (APCD)**, administered by the Utah Department of Health and Human Services. Individual-level Utah APCD data cannot be publicly shared; researchers may apply for access at:
 
-> **Access:** https://myfavoritequote.com/utahapcd (Utah APCD portal)
+> **Access:** https://healthcarestats.utah.gov/about-the-data/apcd/ (Utah DHHS Health Care Statistics Programs — APCD)
 
 The Utah notebook (`utah_analysis.ipynb`) documents the full analytical pipeline. Summary outputs (social R₀ values, concentration indices) are reported in the manuscript and Figure 1.
 

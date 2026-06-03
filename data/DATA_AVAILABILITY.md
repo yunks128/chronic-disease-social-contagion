@@ -31,7 +31,7 @@ Raw New Hampshire all-payer claims data are publicly available from the New Hamp
 
 Utah APCD data are restricted and require a formal data use agreement:
 
-- **Application:** Utah Department of Health and Human Services, Office of Health Care Statistics
+- **Application:** https://healthcarestats.utah.gov/about-the-data/apcd/ — Utah DHHS Office of Health Care Statistics
 - **Files used:** `fact_services_2021.txt`, `dim_member.txt`, and related APCD files
 - **Format:** Pipe-delimited text files
 
